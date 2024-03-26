@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "117105078251",
+    "project_id": "ciyuapp",
+    "storage_bucket": "ciyuapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117105078251:android:fdb02e848f9d50590733ae",
+        "android_client_info": {
+          "package_name": "com.example.ciyuapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABy99LZLd05dR_V5pIxBBYRHAZvSz6QFo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
